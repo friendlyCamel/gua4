@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GUA4_v1_0</string>
+    <string name="title_activity_home_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="saying">学点儿新东西！</string>
+    <string name="app_title">GUA4</string>
+    <string-array name="spingarr">
+        <item>计算机科学与技术</item>
+        <item>电气工程及其自动化</item>
+        <item>生物医学工程</item>
+        <item>微电子科学与技术</item>
+    </string-array>
+</resources>
